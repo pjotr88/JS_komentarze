@@ -44,3 +44,14 @@ console.log(nullowaZmienna);
 
 var imieStudenta = "Michal";
 console.log(imieStudenta.indexOf('c'));
+
+
+
+
+
+
+
+
+
+
+
